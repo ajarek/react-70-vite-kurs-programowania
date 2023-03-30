@@ -5,7 +5,6 @@
   flex-direction: column;
   align-items: flex-start;
   justify-content: space-evenly;
-  
 }
 .form input {
   width: 100%;
@@ -27,7 +26,7 @@
 }
 .form input[type='submit']:hover {
   background: #0565e3;
-  font-size:1.1rem ;
+  font-size: 1.1rem;
 }
 .form p {
   color: red;
