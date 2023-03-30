@@ -1,0 +1,15 @@
+.lista{
+  height: 25vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-bottom: 5rem;
+}
+.lista ol{
+  padding: 1.5rem;
+
+}
+.lista li{
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+}

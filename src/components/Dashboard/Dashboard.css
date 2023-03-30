@@ -1,0 +1,17 @@
+.dashboard{
+  padding: 0.5rem;
+}
+.dashboard button{
+  margin-top: 1rem;
+  font-size: 1.2rem;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #2f80ed;
+  border: none;
+  color: #fff;
+}
+.dashboard button:hover {
+  background: #0565e3;
+  font-size:1.3rem ;
+}

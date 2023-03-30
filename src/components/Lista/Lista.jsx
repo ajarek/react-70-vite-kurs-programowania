@@ -3,7 +3,7 @@ import './Lista.css'
 const Lista = ({array}) => {
   
   return (
-    <div>
+    <div className='lista'>
       <h2>Liczba kursów {array.length}</h2>
       <ol>
       {array.map((item, index) =>{

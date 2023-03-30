@@ -10,5 +10,13 @@
   {
      "id":"3",
      "name":"Kurs Django"
+  },
+  {
+     "id":"4",
+     "name":"Podstawy JS"
+  },
+  {
+     "id":"5",
+     "name":"Podstawy React"
   }
 ]
